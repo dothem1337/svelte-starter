@@ -30,7 +30,6 @@
     onMount(() => {
         root = createRoot(containerRef);
         render();
-        player?.play();
     });
 
     onDestroy(() => {
