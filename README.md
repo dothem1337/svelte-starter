@@ -1,18 +1,8 @@
-# sv
+# svelte-remotion
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This template should help get you started developing with Svelte and Remotion in Vite.
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
+For more information visit the [official Remotion docs](https://www.remotion.dev/docs/svelte)
 
 ## Developing
 
